@@ -1,0 +1,11 @@
+export "package:flutter/material.dart";
+export 'package:flutter_bloc/flutter_bloc.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export 'package:flutter_svg/flutter_svg.dart';
+export 'dart:async';
+export 'package:flutter/services.dart';
+export 'package:tmdb_movie_app/features/splash_screen.dart';
+export 'package:tmdb_movie_app/core/network/http_client.dart';
+export 'package:get_it/get_it.dart';
+export 'package:tmdb_movie_app/core/di/di.dart';
+export 'package:tmdb_movie_app/core/utils/app_colors.dart';
