@@ -1,16 +1,25 @@
-# tmdb_movie_app
 
-A new Flutter project.
+# TMDB Movie App
 
-## Getting Started
+A Flutter application that integrates with The Movie Database (TMDb) API to allow users to discover and explore movies.
 
-This project is a starting point for a Flutter application.
+## Features
+- Movie discovery
+- Search functionality
+- Movie details view
+- Favorites Interaction
+- Dark mode support
+- Offline functionality
+- Performance optimizations
+- Unit testing using Clean Architecture and Bloc state management
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Clone the Repository
+Clone the repository to your local machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/Mohammed0Shnan/tmdb_movie_app.git
+
+
+## Project Status
+
+Note: I have successfully built and implemented all layers and the full structure of the application, with all features functioning as expected. The only outstanding issue is with the local storage provider, which requires some adjustments. I have a clear understanding of how to resolve it but, due to time constraints, I haven't been able to complete the necessary changes. I would appreciate the opportunity to discuss the solution further, as I’m confident I can address it promptly with some additional time. Thank you for your understanding.
